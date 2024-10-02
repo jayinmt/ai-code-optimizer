@@ -15,7 +15,7 @@ The AI-Driven Code Optimizer is a Python script that analyzes and suggests optim
 
 1. Clone the repository:
    ```
-   git clone https://github.com/jaydxyz/ai-code-optimizer.git
+   git clone https://github.com/jayinmt/ai-code-optimizer.git
    ```
 2. Install the required dependencies:
    ```
